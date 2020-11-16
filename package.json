@@ -1,0 +1,15 @@
+{
+  "name": "ytd",
+  "version": "1.0.0",
+  "description": "download file from youtube",
+  "main": "app.js",
+  "dependencies": {
+    "npm": "^6.14.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
